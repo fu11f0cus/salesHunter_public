@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+aiogram
+requests
+asyncio
+python-telegram-bot
+stripe
+beautifulsoup4
+lxml
